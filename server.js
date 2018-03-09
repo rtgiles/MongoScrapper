@@ -1,7 +1,3 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: Homework 18 - Web Scraper with Express, Handlebars, MongoDB and Cheerio
-
 
 // Node Dependencies
 var express = require('express');
